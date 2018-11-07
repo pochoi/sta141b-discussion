@@ -1,5 +1,5 @@
-numpy=1.15.*
+numpy==1.15.*
 pandas
 matplotlib
-scikit-learn=0.20.*
+scikit-learn==0.20.*
 plotnine
