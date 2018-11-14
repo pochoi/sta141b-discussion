@@ -3,9 +3,13 @@
 
 Final Projects! Add Oil!  
 
-- GitHub Guides
+- GitHub
 
-  https://guides.github.com/
+  https://guides.github.com/ <br>
+  How to use GitHub
+
+  https://github.com/settings/keys <br>
+  If you are tired of typing Github password each time pushing your commits, set up SSH key!
 
 - Jupyter Notebook Examples
 
